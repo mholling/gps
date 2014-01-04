@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="-36.13949" lon="148.54803">
+  <ele>1482.852000</ele>
+  <name>Adams Hut</name>
+  <cmt>Adams Hut</cmt>
+  <desc>Adams Hut</desc>
+</wpt>
+<wpt lat="-35.67111" lon="148.60139">
+  <ele>1377.086400</ele>
+  <name>Hainsworth Hut</name>
+  <cmt>Hainsworth Hut</cmt>
+  <desc>Hainsworth Hut</desc>
+</wpt>
+<wpt lat="-36.174458" lon="148.552426">
+  <name>Biilmans Hut</name>
+  <cmt>Biilmans Hut</cmt>
+  <desc>Biilmans Hut</desc>
+</wpt>
+<wpt lat="-36.06084" lon="148.46463">
+  <ele>1527.048000</ele>
+  <name>Boobee Hut</name>
+  <cmt>Boobee Hut</cmt>
+  <desc>Boobee Hut</desc>
+</wpt>
+<wpt lat="-35.95248" lon="148.49875">
+  <ele>1652.016000</ele>
+  <name>Broken Dam Hut</name>
+  <cmt>Broken Dam Hut</cmt>
+  <desc>Broken Dam Hut</desc>
+</wpt>
+<wpt lat="-36.70019" lon="148.25080">
+  <ele>1273.149600</ele>
+  <name>Carters Hut (Tin Mines)</name>
+  <cmt>Carters Hut (Tin Mines)</cmt>
+  <desc>Carters Hut (Tin Mines)</desc>
+</wpt>
+<wpt lat="-35.81895" lon="148.68856">
+  <ele>1252.118400</ele>
+  <name>Circuit Hut</name>
+  <cmt>Circuit Hut</cmt>
+  <desc>Circuit Hut</desc>
+</wpt>
+<wpt lat="-35.63134" lon="148.59719">
+  <ele>1380.134400</ele>
+  <name>Cooinbil Hut</name>
+  <cmt>Cooinbil Hut</cmt>
+  <desc>Cooinbil Hut</desc>
+</wpt>
+<wpt lat="-36.477567" lon="148.25610">
+  <name>Cootapatamba Hut</name>
+  <cmt>Cootapatamba Hut</cmt>
+  <desc>Cootapatamba Hut</desc>
+</wpt>
+<wpt lat="-35.69022" lon="148.66445">
+  <ele>1273.149600</ele>
+  <name>Old Currango</name>
+  <cmt>Old Currango</cmt>
+  <desc>Old Currango</desc>
+</wpt>
+<wpt lat="-36.58318" lon="148.25767">
+  <ele>1489.862400</ele>
+  <name>Cascade Hut</name>
+  <cmt>Cascade Hut</cmt>
+  <desc>Cascade Hut</desc>
+</wpt>
+<wpt lat="-36.14625" lon="148.45213">
+  <ele>1758.086400</ele>
+  <name>Cesjacks Hut</name>
+  <cmt>Cesjacks Hut</cmt>
+  <desc>Cesjacks Hut</desc>
+</wpt>
+<wpt lat="-36.23005" lon="148.53401">
+  <ele>1355.140800</ele>
+  <name>Daveys Hut</name>
+  <cmt>Daveys Hut</cmt>
+  <desc>Daveys Hut</desc>
+</wpt>
+<wpt lat="-36.32641" lon="148.41425">
+  <ele>1666.951200</ele>
+  <name>Disappointment Spur Hut</name>
+  <cmt>Disappointment Spur Hut</cmt>
+  <desc>Disappointment Spur Hut</desc>
+</wpt>
+<wpt lat="-41.82894" lon="146.30924">
+  <ele>1264.005600</ele>
+  <name>Dixons Kingdom</name>
+  <cmt>Dixons Kingdom</cmt>
+  <desc>Dixons Kingdom</desc>
+</wpt>
+<wpt lat="-36.14235" lon="148.35306">
+  <ele>1620.926400</ele>
+  <name>Dershkos Hut</name>
+  <cmt>Dershkos Hut</cmt>
+  <desc>Dershkos Hut</desc>
+</wpt>
+<wpt lat="-36.49327" lon="148.28707">
+  <ele>1937.918400</ele>
+  <name>Eagles Nest</name>
+  <cmt>Eagles Nest</cmt>
+  <desc>Eagles Nest</desc>
+</wpt>
+<wpt lat="-35.77520" lon="148.95898">
+  <ele>1082.954400</ele>
+  <name>Frank &amp; Jacks Hut</name>
+  <cmt>Frank &amp; Jacks Hut</cmt>
+  <desc>Frank &amp; Jacks Hut</desc>
+</wpt>
+<wpt lat="-35.89731" lon="148.66161">
+  <ele>1378.000800</ele>
+  <name>Gavels Hut</name>
+  <cmt>Gavels Hut</cmt>
+  <desc>Gavels Hut</desc>
+</wpt>
+<wpt lat="-35.80050" lon="148.53654">
+  <ele>1389.888000</ele>
+  <name>Gooandra Homestead</name>
+  <cmt>Gooandra Homestead</cmt>
+  <desc>Gooandra Homestead</desc>
+</wpt>
+<wpt lat="-36.21199" lon="148.33839">
+  <ele>1647.139200</ele>
+  <name>Grey Mare Hut</name>
+  <cmt>Grey Mare Hut</cmt>
+  <desc>Grey Mare Hut</desc>
+</wpt>
+<wpt lat="-35.79009" lon="148.96705">
+  <ele>1113.129600</ele>
+  <name>Hospital Creek Hut</name>
+  <cmt>Hospital Creek Hut</cmt>
+  <desc>Hospital Creek Hut</desc>
+</wpt>
+<wpt lat="-36.33147" lon="148.39604">
+  <ele>1587.093600</ele>
+  <name>Horse Camp Hut</name>
+  <cmt>Horse Camp Hut</cmt>
+  <desc>Horse Camp Hut</desc>
+</wpt>
+<wpt lat="-35.82380" lon="149.06603">
+  <ele>964.082400</ele>
+  <name>Horse Gully Hut</name>
+  <cmt>Horse Gully Hut</cmt>
+  <desc>Horse Gully Hut</desc>
+</wpt>
+<wpt lat="-36.39622" lon="148.35610">
+  <ele>1652.930400</ele>
+  <name>Illawong Lodge</name>
+  <cmt>Illawong Lodge</cmt>
+  <desc>Illawong Lodge</desc>
+</wpt>
+<wpt lat="-36.185288" lon="148.551527">
+  <name>Jardines Hut</name>
+  <cmt>Jardines Hut</cmt>
+  <desc>Jardines Hut</desc>
+</wpt>
+<wpt lat="-36.124408" lon="148.519216">
+  <name>Kellys Hut</name>
+  <cmt>Kellys Hut</cmt>
+  <desc>Kellys Hut</desc>
+</wpt>
+<wpt lat="-36.21483" lon="148.46688">
+  <ele>1516.989600</ele>
+  <name>Kidmans Hut</name>
+  <cmt>Kidmans Hut</cmt>
+  <desc>Kidmans Hut</desc>
+</wpt>
+<wpt lat="-35.69730" lon="148.53757">
+  <ele>1380.134400</ele>
+  <name>Long Plain Hut</name>
+  <cmt>Long Plain Hut</cmt>
+  <desc>Long Plain Hut</desc>
+</wpt>
+<wpt lat="-35.76187" lon="148.72084">
+  <ele>1225.905600</ele>
+  <name>Love Nest in the Sallees</name>
+  <cmt>Love Nest in the Sallees</cmt>
+  <desc>Love Nest in the Sallees</desc>
+</wpt>
+<wpt lat="-36.08888" lon="148.46442">
+  <ele>1566.062400</ele>
+  <name>Mackays Hut</name>
+  <cmt>Mackays Hut</cmt>
+  <desc>Mackays Hut</desc>
+</wpt>
+<wpt lat="-36.22192" lon="148.40349">
+  <ele>1806.854400</ele>
+  <name>Mawsons Hut</name>
+  <cmt>Mawsons Hut</cmt>
+  <desc>Mawsons Hut</desc>
+</wpt>
+<wpt lat="-35.70584" lon="148.57800">
+  <ele>1375.867200</ele>
+  <name>Millers Hut</name>
+  <cmt>Millers Hut</cmt>
+  <desc>Millers Hut</desc>
+</wpt>
+<wpt lat="-42.01252" lon="146.10162">
+  <name>Narcissus Hut</name>
+  <cmt>Narcissus Hut</cmt>
+  <desc>Narcissus Hut</desc>
+</wpt>
+<wpt lat="-36.12398" lon="148.40235">
+  <ele>1634.032800</ele>
+  <name>O'Keefes Hut</name>
+  <cmt>O'Keefes Hut</cmt>
+  <desc>O'Keefes Hut</desc>
+</wpt>
+<wpt lat="-35.67746" lon="148.75507">
+  <ele>1357.884000</ele>
+  <name>Oldfields Hut</name>
+  <cmt>Oldfields Hut</cmt>
+  <desc>Oldfields Hut</desc>
+</wpt>
+<wpt lat="-36.06024" lon="148.29543">
+  <ele>1260.957600</ele>
+  <name>Patons Hut</name>
+  <cmt>Patons Hut</cmt>
+  <desc>Patons Hut</desc>
+</wpt>
+<wpt lat="-35.77384" lon="148.70620">
+  <ele>1214.018400</ele>
+  <name>Pedens Hut</name>
+  <cmt>Pedens Hut</cmt>
+  <desc>Pedens Hut</desc>
+</wpt>
+<wpt lat="-41.83009" lon="146.04696">
+  <name>New Pelion Hut</name>
+  <cmt>New Pelion Hut</cmt>
+  <desc>New Pelion Hut</desc>
+</wpt>
+<wpt lat="-35.65770" lon="148.72875">
+  <ele>1249.984800</ele>
+  <name>Pockets Hut</name>
+  <cmt>Pockets Hut</cmt>
+  <desc>Pockets Hut</desc>
+</wpt>
+<wpt lat="-36.16871" lon="148.29417">
+  <ele>1353.007200</ele>
+  <name>Pretty Plain Hut</name>
+  <cmt>Pretty Plain Hut</cmt>
+  <desc>Pretty Plain Hut</desc>
+</wpt>
+<wpt lat="-35.56232" lon="148.77817">
+  <ele>1665.122400</ele>
+  <name>Pryors Hut</name>
+  <cmt>Pryors Hut</cmt>
+  <desc>Pryors Hut</desc>
+</wpt>
+<wpt lat="-36.04430" lon="148.38231">
+  <ele>1514.856000</ele>
+  <name>Round Mountain Hut</name>
+  <cmt>Round Mountain Hut</cmt>
+  <desc>Round Mountain Hut</desc>
+</wpt>
+<wpt lat="-36.27501" lon="148.38512">
+  <ele>1774.850400</ele>
+  <name>Schlink Hilton</name>
+  <cmt>Schlink Hilton</cmt>
+  <desc>Schlink Hilton</desc>
+</wpt>
+<wpt lat="-35.85260" lon="148.67519">
+  <ele>1395.069600</ele>
+  <name>Schofields Hut</name>
+  <cmt>Schofields Hut</cmt>
+  <desc>Schofields Hut</desc>
+</wpt>
+<wpt lat="-36.45024" lon="148.28267">
+  <ele>2033.016000</ele>
+  <name>Seamans Hut</name>
+  <cmt>Seamans Hut</cmt>
+  <desc>Seamans Hut</desc>
+</wpt>
+<wpt lat="-36.53133" lon="148.34395">
+  <ele>1730.959200</ele>
+  <name>Teddys Hut</name>
+  <cmt>Teddys Hut</cmt>
+  <desc>Teddys Hut</desc>
+</wpt>
+<wpt lat="-36.26463" lon="148.42394">
+  <ele>1866.900000</ele>
+  <name>Tin Hut</name>
+  <cmt>Tin Hut</cmt>
+  <desc>Tin Hut</desc>
+</wpt>
+<wpt lat="-36.70012" lon="148.25076">
+  <ele>1274.978400</ele>
+  <name>Tin Mine Hut (Barn)</name>
+  <cmt>Tin Mine Hut (Barn)</cmt>
+  <desc>Tin Mine Hut (Barn)</desc>
+</wpt>
+<wpt lat="-36.26513" lon="148.42420">
+  <ele>1865.985600</ele>
+  <name>Tin Hut toilet</name>
+  <cmt>Tin Hut toilet</cmt>
+  <desc>Tin Hut toilet</desc>
+</wpt>
+<wpt lat="-35.87313" lon="148.55717">
+  <ele>1606.905600</ele>
+  <name>Tantangara Mountain Hut</name>
+  <cmt>Tantangara Mountain Hut</cmt>
+  <desc>Tantangara Mountain Hut</desc>
+</wpt>
+<wpt lat="-41.78535" lon="146.25408">
+  <ele>1068.019200</ele>
+  <name>Trappers Hut</name>
+  <cmt>Trappers Hut</cmt>
+  <desc>Trappers Hut</desc>
+</wpt>
+<wpt lat="-36.22698" lon="148.37174">
+  <ele>1684.020000</ele>
+  <name>Valentine Hut</name>
+  <cmt>Valentine Hut</cmt>
+  <desc>Valentine Hut</desc>
+</wpt>
+<wpt lat="-35.86649" lon="148.95198">
+  <ele>1236.878400</ele>
+  <name>Waterhole Hut</name>
+  <cmt>Waterhole Hut</cmt>
+  <desc>Waterhole Hut</desc>
+</wpt>
+<wpt lat="-35.88725" lon="148.97146">
+  <ele>1211.884800</ele>
+  <name>Westermans Homestead</name>
+  <cmt>Westermans Homestead</cmt>
+  <desc>Westermans Homestead</desc>
+</wpt>
+<wpt lat="-36.29982" lon="148.38584">
+  <ele>1726.996800</ele>
+  <name>Whites River Hut</name>
+  <cmt>Whites River Hut</cmt>
+  <desc>Whites River Hut</desc>
+</wpt>
+<wpt lat="-36.11392" lon="148.25286">
+  <ele>1328.013600</ele>
+  <name>Wheelers Hut</name>
+  <cmt>Wheelers Hut</cmt>
+  <desc>Wheelers Hut</desc>
+</wpt>
+<wpt lat="-35.81147" lon="148.58343">
+  <ele>1378.000800</ele>
+  <name>Witses Hut</name>
+  <cmt>Witses Hut</cmt>
+  <desc>Witses Hut</desc>
+</wpt>
+<wpt lat="-36.14649" lon="148.48835">
+  <ele>1487.119200</ele>
+  <name>Wallaces Hut</name>
+  <cmt>Wallaces Hut</cmt>
+  <desc>Wallaces Hut</desc>
+</wpt>
+<wpt lat="-36.16245" lon="148.52363">
+  <ele>1420.063200</ele>
+  <name>Yellow Hut</name>
+  <cmt>Yellow Hut</cmt>
+  <desc>Yellow Hut</desc>
+</wpt>
+<wpt lat="-35.769799" lon="148.591803">
+  <ele>1238.05</ele>
+  <name>Hains Hut</name>
+  <cmt>Hains Hut</cmt>
+  <desc>Hains Hut</desc>
+</wpt>
+<wpt lat="-36.030118" lon="148.519747">
+  <ele>1507.94</ele>
+  <name>Brooks Hut</name>
+  <cmt>Brooks Hut</cmt>
+  <desc>Brooks Hut</desc>
+</wpt>
+<wpt lat="-36.011663" lon="148.539422">
+  <ele>1518.28</ele>
+  <name>Happys Hut</name>
+  <cmt>Happys Hut</cmt>
+  <desc>Happys Hut</desc>
+</wpt>
+<wpt lat="-35.929807" lon="148.478369">
+  <ele>1472.13</ele>
+  <name>Four Mile Hut</name>
+  <cmt>Four Mile Hut</cmt>
+  <desc>Four Mile Hut</desc>
+</wpt>
+<wpt lat="-35.909173" lon="148.563526">
+  <ele>1376.48</ele>
+  <name>Delanys Hut</name>
+  <cmt>Delanys Hut</cmt>
+  <desc>Delanys Hut</desc>
+</wpt>
+<wpt lat="-35.867619" lon="148.716921">
+  <ele>1379.61</ele>
+  <name>Brayshaws Hut</name>
+  <cmt>Brayshaws Hut</cmt>
+  <desc>Brayshaws Hut</desc>
+</wpt>
+<wpt lat="-35.620273417" lon="148.404526804">
+  <ele>927.791016</ele>
+  <name>Vickerys Hut</name>
+  <cmt>Vickerys Hut</cmt>
+  <desc>Vickerys Hut</desc>
+</wpt>
+<wpt lat="-36.971227247" lon="147.160568889">
+  <ele>1748.991211</ele>
+  <name>Derrick Hut</name>
+  <cmt>Derrick Hut</cmt>
+  <desc>Derrick Hut</desc>
+</wpt>
+<wpt lat="-41.892190000" lon="146.081500000">
+  <name>Kia Ora Hut</name>
+  <cmt>Kia Ora Hut</cmt>
+  <desc>Kia Ora Hut</desc>
+</wpt>
+<wpt lat="-41.932090000" lon="146.088990000">
+  <name>Windy Ridge Hut</name>
+  <cmt>Windy Ridge Hut</cmt>
+  <desc>Windy Ridge Hut</desc>
+</wpt>
+<wpt lat="-41.771590000" lon="145.956270000">
+  <name>Windemere Hut</name>
+  <cmt>Windemere Hut</cmt>
+  <desc>Windemere Hut</desc>
+</wpt>
+<wpt lat="-41.714720000" lon="145.946890000">
+  <name>Waterfall Valley Hut</name>
+  <cmt>Waterfall Valley Hut</cmt>
+  <desc>Waterfall Valley Hut</desc>
+</wpt>
+<wpt lat="-36.848150000" lon="147.332190000">
+  <ele>1749.856800</ele>
+  <name>Edmondson Hut</name>
+  <cmt>Edmondson Hut</cmt>
+  <desc>Edmondson Hut</desc>
+</wpt>
+<wpt lat="-36.713640000" lon="147.295100000">
+  <ele>1448.714400</ele>
+  <name>Bivouac Hut</name>
+  <cmt>Bivouac Hut</cmt>
+  <desc>Bivouac Hut</desc>
+</wpt>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="-36.395610021" lon="148.354479969">
+  <ele>1612.004150</ele>
+  <name>Illawong Bridge</name>
+  <cmt>Illawong Bridge</cmt>
+  <desc>Illawong Bridge</desc>
+</wpt>
+<wpt lat="-36.044219" lon="148.520232">
+  <ele>1441.13</ele>
+  <name>log bridge</name>
+  <cmt>log bridge</cmt>
+  <desc>log bridge</desc>
+</wpt>
+</gpx>

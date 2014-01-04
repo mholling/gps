@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+ version="1.0"
+ creator="OziExplorer Version 3954m - http://www.oziexplorer.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2011-11-09T01:00:55Z</time>
+<bounds minlat="-35.946729" minlon="149.393408" maxlat="-35.895605" maxlon="149.477783"/>
+<wpt lat="-35.9391600" lon="149.4750980">
+ <time>2011-10-16T12:02:08.917Z</time>
+ <name>100</name>
+</wpt>
+<wpt lat="-35.9124510" lon="149.4034180">
+ <time>2011-10-16T12:03:31.170Z</time>
+ <name>101</name>
+</wpt>
+<wpt lat="-35.9114260" lon="149.4731450">
+ <time>2011-10-16T12:01:47.093Z</time>
+ <name>30</name>
+</wpt>
+<wpt lat="-35.9022460" lon="149.4102540">
+ <time>2011-10-16T12:03:46.532Z</time>
+ <name>31</name>
+</wpt>
+<wpt lat="-35.8956050" lon="149.4577640">
+ <time>2011-10-16T12:04:31.434Z</time>
+ <name>40</name>
+</wpt>
+<wpt lat="-35.9083980" lon="149.4646480">
+ <time>2011-10-16T12:01:39.965Z</time>
+ <name>41</name>
+</wpt>
+<wpt lat="-35.9349610" lon="149.4492190">
+ <time>2011-10-16T12:02:53.949Z</time>
+ <name>42</name>
+</wpt>
+<wpt lat="-35.9016600" lon="149.4279300">
+ <time>2011-10-16T12:03:57.280Z</time>
+ <name>43</name>
+</wpt>
+<wpt lat="-35.9054200" lon="149.3934080">
+ <time>2011-10-16T12:04:59.091Z</time>
+ <name>44</name>
+</wpt>
+<wpt lat="-35.9167480" lon="149.4136720">
+ <time>2011-10-16T12:03:27.377Z</time>
+ <name>45</name>
+</wpt>
+<wpt lat="-35.9089840" lon="149.4138670">
+ <time>2011-10-16T12:04:50.701Z</time>
+ <name>46</name>
+</wpt>
+<wpt lat="-35.9141600" lon="149.4463870">
+ <time>2011-10-16T12:03:11.765Z</time>
+ <name>50</name>
+</wpt>
+<wpt lat="-35.9434080" lon="149.4523930">
+ <time>2011-10-16T12:02:25.921Z</time>
+ <name>51</name>
+</wpt>
+<wpt lat="-35.9356450" lon="149.4290040">
+ <time>2011-10-16T12:02:40.877Z</time>
+ <name>52</name>
+</wpt>
+<wpt lat="-35.9264160" lon="149.4394530">
+ <time>2011-10-16T12:04:43.919Z</time>
+ <name>53</name>
+</wpt>
+<wpt lat="-35.9096680" lon="149.4306150">
+ <time>2011-10-16T12:04:02.015Z</time>
+ <name>54</name>
+</wpt>
+<wpt lat="-35.9283690" lon="149.4066410">
+ <time>2011-10-16T12:05:47.077Z</time>
+ <name>55</name>
+</wpt>
+<wpt lat="-35.9202150" lon="149.4217290">
+ <time>2011-10-16T12:03:24.189Z</time>
+ <name>56</name>
+</wpt>
+<wpt lat="-35.9244630" lon="149.4583500">
+ <time>2011-10-16T12:03:01.017Z</time>
+ <name>57</name>
+</wpt>
+<wpt lat="-35.8966310" lon="149.4420410">
+ <time>2011-10-16T12:04:06.534Z</time>
+ <name>60</name>
+</wpt>
+<wpt lat="-35.8993160" lon="149.4684570">
+ <time>2011-10-16T12:01:43.378Z</time>
+ <name>61</name>
+</wpt>
+<wpt lat="-35.9352540" lon="149.4777830">
+ <time>2011-10-16T12:13:42.563Z</time>
+ <name>62</name>
+</wpt>
+<wpt lat="-35.9432620" lon="149.4443850">
+ <time>2011-10-16T12:02:31.356Z</time>
+ <name>63</name>
+</wpt>
+<wpt lat="-35.9342770" lon="149.4362790">
+ <time>2011-10-16T12:02:45.828Z</time>
+ <name>64</name>
+</wpt>
+<wpt lat="-35.9166500" lon="149.4314450">
+ <time>2011-10-16T12:03:19.964Z</time>
+ <name>65</name>
+</wpt>
+<wpt lat="-35.9262210" lon="149.4125980">
+ <time>2011-10-16T12:05:40.874Z</time>
+ <name>66</name>
+</wpt>
+<wpt lat="-35.9307130" lon="149.4177730">
+ <time>2011-10-16T12:06:06.077Z</time>
+ <name>67</name>
+</wpt>
+<wpt lat="-35.9243650" lon="149.4751950">
+ <time>2011-10-16T12:01:53.936Z</time>
+ <name>70</name>
+</wpt>
+<wpt lat="-35.9180660" lon="149.4527830">
+ <time>2011-10-16T12:03:07.108Z</time>
+ <name>71</name>
+</wpt>
+<wpt lat="-35.9346190" lon="149.4110840">
+ <time>2011-10-16T12:05:59.078Z</time>
+ <name>72</name>
+</wpt>
+<wpt lat="-35.9002930" lon="149.4193360">
+ <time>2011-10-16T12:03:52.295Z</time>
+ <name>73</name>
+</wpt>
+<wpt lat="-35.9467290" lon="149.4695800">
+ <time>2011-10-16T12:02:16.797Z</time>
+ <name>80</name>
+</wpt>
+<wpt lat="-35.9007810" lon="149.4003420">
+ <time>2011-10-16T12:03:33.970Z</time>
+ <name>81</name>
+</wpt>
+<wpt lat="-35.9332030" lon="149.4555660">
+ <time>2011-10-16T12:02:57.016Z</time>
+ <name>90</name>
+</wpt>
+<wpt lat="-35.9397950" lon="149.4310550">
+ <time>2011-10-16T12:02:36.704Z</time>
+ <name>91</name>
+</wpt>
+<wpt lat="-35.9049320" lon="149.4490720">
+ <time>2011-10-16T12:01:35.714Z</time>
+ <name>HH</name>
+</wpt>
+</gpx>
