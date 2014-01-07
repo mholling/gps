@@ -152,16 +152,6 @@
   <cmt>Illawong Lodge</cmt>
   <desc>Illawong Lodge</desc>
 </wpt>
-<wpt lat="-36.185288" lon="148.551527">
-  <name>Jardines Hut</name>
-  <cmt>Jardines Hut</cmt>
-  <desc>Jardines Hut</desc>
-</wpt>
-<wpt lat="-36.124408" lon="148.519216">
-  <name>Kellys Hut</name>
-  <cmt>Kellys Hut</cmt>
-  <desc>Kellys Hut</desc>
-</wpt>
 <wpt lat="-36.21483" lon="148.46688">
   <ele>1516.989600</ele>
   <name>Kidmans Hut</name>
@@ -437,5 +427,110 @@
   <name>Bivouac Hut</name>
   <cmt>Bivouac Hut</cmt>
   <desc>Bivouac Hut</desc>
+</wpt>
+<wpt lat="-36.163588235" lon="148.466310359">
+  <name>Flanagans Hut</name>
+  <cmt>Flanagans Hut</cmt>
+  <desc>Flanagans Hut</desc>
+</wpt>
+<wpt lat="-36.166940887" lon="148.459001748">
+  <name>Bulls Peak Lodge</name>
+  <cmt>Bulls Peak Lodge</cmt>
+  <desc>Bulls Peak Lodge</desc>
+</wpt>
+<wpt lat="-36.156948531" lon="148.490064538">
+  <name>High Hut</name>
+  <cmt>High Hut</cmt>
+  <desc>High Hut</desc>
+</wpt>
+<wpt lat="-36.186111028" lon="148.551728599">
+  <name>Jardines Hut</name>
+  <cmt>Jardines Hut</cmt>
+  <desc>Jardines Hut</desc>
+</wpt>
+<wpt lat="-36.159862278" lon="148.491353640">
+  <name>Katingal</name>
+  <cmt>Katingal</cmt>
+  <desc>Katingal</desc>
+</wpt>
+<wpt lat="-36.124324496" lon="148.521571450">
+  <name>Kellys Hut</name>
+  <cmt>Kellys Hut</cmt>
+  <desc>Kellys Hut</desc>
+</wpt>
+<wpt lat="-36.209988624" lon="148.559591907">
+  <name>Mrs Caseys Hut</name>
+  <cmt>Mrs Caseys Hut</cmt>
+  <desc>Mrs Caseys Hut</desc>
+</wpt>
+<wpt lat="-36.156570417" lon="148.497249588">
+  <name>Stevens Hut</name>
+  <cmt>Stevens Hut</cmt>
+  <desc>Stevens Hut</desc>
+</wpt>
+<wpt lat="-36.162242690" lon="148.529185460">
+  <name>Wroes Hut</name>
+  <cmt>Wroes Hut</cmt>
+  <desc>Wroes Hut</desc>
+</wpt>
+<wpt lat="-36.252874746" lon="148.548201223">
+  <name>Botheram Plain Hut</name>
+  <cmt>Botheram Plain Hut</cmt>
+  <desc>Botheram Plain Hut</desc>
+</wpt>
+<wpt lat="-35.609309098" lon="148.665031096">
+  <name>Coolamine Homestead</name>
+  <cmt>Coolamine Homestead</cmt>
+  <desc>Coolamine Homestead</desc>
+</wpt>
+<wpt lat="-36.229300000" lon="148.560650000">
+  <name>CSIRO Hut</name>
+  <cmt>CSIRO Hut</cmt>
+  <desc>CSIRO Hut</desc>
+</wpt>
+<wpt lat="-36.199871137" lon="148.572300211">
+  <name>McMillans Hut</name>
+  <cmt>McMillans Hut</cmt>
+  <desc>McMillans Hut</desc>
+</wpt>
+<wpt lat="-35.874802563" lon="148.984854865">
+  <name>Brayshaws Hut</name>
+  <cmt>Brayshaws Hut</cmt>
+  <desc>Brayshaws Hut</desc>
+</wpt>
+<wpt lat="-35.838584632" lon="149.052535893">
+  <name>Demandering Hut</name>
+  <cmt>Demandering Hut</cmt>
+  <desc>Demandering Hut</desc>
+</wpt>
+<wpt lat="-36.387427787" lon="148.274732759">
+  <name>Opera House</name>
+  <cmt>Opera House</cmt>
+  <desc>Opera House</desc>
+</wpt>
+<wpt lat="-35.784155450" lon="148.684886935">
+  <name>Townsends Hut</name>
+  <cmt>Townsends Hut</cmt>
+  <desc>Townsends Hut</desc>
+</wpt>
+<wpt lat="-36.014637314" lon="148.398965164">
+  <name>Linesman No. 3 Hut</name>
+  <cmt>Linesman No. 3 Hut</cmt>
+  <desc>Linesman No. 3 Hut</desc>
+</wpt>
+<wpt lat="-35.650577000" lon="148.664895000">
+  <name>Bill Jones Hut</name>
+  <cmt>Bill Jones Hut</cmt>
+  <desc>Bill Jones Hut</desc>
+</wpt>
+<wpt lat="-35.650918000" lon="148.831087000">
+  <name>Cotter Hut</name>
+  <cmt>Cotter Hut</cmt>
+  <desc>Cotter Hut</desc>
+</wpt>
+<wpt lat="-36.820385000" lon="148.324233000">
+  <name>Ingeegoodbee Hut</name>
+  <cmt>Ingeegoodbee Hut</cmt>
+  <desc>Ingeegoodbee Hut</desc>
 </wpt>
 </gpx>
