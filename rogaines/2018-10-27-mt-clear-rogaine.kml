@@ -267,6 +267,14 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>72</name>
+			<styleUrl>#mfailed0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>148.976235,-35.878247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>56</name>
 			<styleUrl>#mfailed0</styleUrl>
 			<Point>
