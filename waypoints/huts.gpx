@@ -10,13 +10,20 @@
   <cmt>Adams Hut</cmt>
   <desc>Adams Hut</desc>
 </wpt>
+<wpt lat='-36.154116' lon='148.538935'>
+  <ele>1409.00</ele>
+  <name>Amos Hut</name>
+  <cmt>Amos Hut</cmt>
+  <desc>Amos Hut</desc>
+</wpt>
 <wpt lat="-35.67111" lon="148.60139">
   <ele>1377.086400</ele>
   <name>Hainsworth Hut</name>
   <cmt>Hainsworth Hut</cmt>
   <desc>Hainsworth Hut</desc>
 </wpt>
-<wpt lat="-36.174458" lon="148.552426">
+<wpt lat="-36.174529" lon="148.552484">
+  <ele>1352.00</ele>
   <name>Biilmans Hut</name>
   <cmt>Biilmans Hut</cmt>
   <desc>Biilmans Hut</desc>
@@ -44,6 +51,12 @@
   <name>Circuit Hut</name>
   <cmt>Circuit Hut</cmt>
   <desc>Circuit Hut</desc>
+</wpt>
+<wpt lat="-36.134341" lon="148.49356">
+  <ele>1502.21</ele>
+  <name>Clancys Hut</name>
+  <cmt>Clancys Hut</cmt>
+  <desc>Clancys Hut</desc>
 </wpt>
 <wpt lat="-35.63134" lon="148.59719">
   <ele>1380.134400</ele>
@@ -443,7 +456,8 @@
   <cmt>High Hut</cmt>
   <desc>High Hut</desc>
 </wpt>
-<wpt lat="-36.186111028" lon="148.551728599">
+<wpt lat='-36.186092' lon='148.551736'>
+  <ele>1361.00</ele>
   <name>Jardines Hut</name>
   <cmt>Jardines Hut</cmt>
   <desc>Jardines Hut</desc>
@@ -468,7 +482,8 @@
   <cmt>Stevens Hut</cmt>
   <desc>Stevens Hut</desc>
 </wpt>
-<wpt lat="-36.162242690" lon="148.529185460">
+<wpt lat='-36.162192' lon='148.529281'>
+  <ele>1406.00</ele>
   <name>Wroes Hut</name>
   <cmt>Wroes Hut</cmt>
   <desc>Wroes Hut</desc>
