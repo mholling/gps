@@ -1038,6 +1038,14 @@
         </Link>
         <flyToView>1</flyToView>
       </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>2020-02-20-kidmans-hut</name>
+        <Link>
+          <href>https://github.com/mholling/gps/raw/master/trips/2020-02-20-kidmans-hut.kml</href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
     </Folder>
     <Folder>
       <name>waypoints</name>
