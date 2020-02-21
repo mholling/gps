@@ -1039,5 +1039,16 @@
         <flyToView>1</flyToView>
       </NetworkLink>
     </Folder>
+    <Folder>
+      <name>waypoints</name>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>huts</name>
+        <Link>
+          <href>https://github.com/mholling/gps/raw/master/waypoints/huts.kml</href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
+    </Folder>
   </Document>
 </kml>

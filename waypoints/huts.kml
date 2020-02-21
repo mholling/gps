@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <Placemark>
+      <name>Adams Hut</name>
+      <Point>
+        <coordinates>148.54803,-36.13949,1482.852000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amos Hut</name>
+      <Point>
+        <coordinates>148.538935,-36.154116,1409.00</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hainsworth Hut</name>
+      <Point>
+        <coordinates>148.60139,-35.67111,1377.086400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biilmans Hut</name>
+      <Point>
+        <coordinates>148.552484,-36.174529,1352.00</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boobee Hut</name>
+      <Point>
+        <coordinates>148.46463,-36.06084,1527.048000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broken Dam Hut</name>
+      <Point>
+        <coordinates>148.49875,-35.95248,1652.016000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carters Hut (Tin Mines)</name>
+      <Point>
+        <coordinates>148.25080,-36.70019,1273.149600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Circuit Hut</name>
+      <Point>
+        <coordinates>148.68856,-35.81895,1252.118400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clancys Hut</name>
+      <Point>
+        <coordinates>148.49356,-36.134341,1502.21</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cooinbil Hut</name>
+      <Point>
+        <coordinates>148.59719,-35.63134,1380.134400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cootapatamba Hut</name>
+      <Point>
+        <coordinates>148.25610,-36.477567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Currango</name>
+      <Point>
+        <coordinates>148.66445,-35.69022,1273.149600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cascade Hut</name>
+      <Point>
+        <coordinates>148.25767,-36.58318,1489.862400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cesjacks Hut</name>
+      <Point>
+        <coordinates>148.45213,-36.14625,1758.086400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Daveys Hut</name>
+      <Point>
+        <coordinates>148.53401,-36.23005,1355.140800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disappointment Spur Hut</name>
+      <Point>
+        <coordinates>148.41425,-36.32641,1666.951200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dixons Kingdom</name>
+      <Point>
+        <coordinates>146.30924,-41.82894,1264.005600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dershkos Hut</name>
+      <Point>
+        <coordinates>148.35306,-36.14235,1620.926400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eagles Nest</name>
+      <Point>
+        <coordinates>148.28707,-36.49327,1937.918400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frank &amp; Jacks Hut</name>
+      <Point>
+        <coordinates>148.95898,-35.77520,1082.954400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gavels Hut</name>
+      <Point>
+        <coordinates>148.66161,-35.89731,1378.000800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gooandra Homestead</name>
+      <Point>
+        <coordinates>148.53654,-35.80050,1389.888000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grey Mare Hut</name>
+      <Point>
+        <coordinates>148.33839,-36.21199,1647.139200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital Creek Hut</name>
+      <Point>
+        <coordinates>148.96705,-35.79009,1113.129600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horse Camp Hut</name>
+      <Point>
+        <coordinates>148.39604,-36.33147,1587.093600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horse Gully Hut</name>
+      <Point>
+        <coordinates>149.06603,-35.82380,964.082400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Illawong Lodge</name>
+      <Point>
+        <coordinates>148.35610,-36.39622,1652.930400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kidmans Hut</name>
+      <Point>
+        <coordinates>148.46688,-36.21483,1516.989600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Long Plain Hut</name>
+      <Point>
+        <coordinates>148.53757,-35.69730,1380.134400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Love Nest in the Sallees</name>
+      <Point>
+        <coordinates>148.72084,-35.76187,1225.905600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mackays Hut</name>
+      <Point>
+        <coordinates>148.46442,-36.08888,1566.062400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mawsons Hut</name>
+      <Point>
+        <coordinates>148.40349,-36.22192,1806.854400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Millers Hut</name>
+      <Point>
+        <coordinates>148.57800,-35.70584,1375.867200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Narcissus Hut</name>
+      <Point>
+        <coordinates>146.10162,-42.01252</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>O&apos;Keefes Hut</name>
+      <Point>
+        <coordinates>148.40235,-36.12398,1634.032800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oldfields Hut</name>
+      <Point>
+        <coordinates>148.75507,-35.67746,1357.884000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patons Hut</name>
+      <Point>
+        <coordinates>148.29543,-36.06024,1260.957600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedens Hut</name>
+      <Point>
+        <coordinates>148.70620,-35.77384,1214.018400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Pelion Hut</name>
+      <Point>
+        <coordinates>146.04696,-41.83009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pockets Hut</name>
+      <Point>
+        <coordinates>148.72875,-35.65770,1249.984800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pretty Plain Hut</name>
+      <Point>
+        <coordinates>148.29417,-36.16871,1353.007200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pryors Hut</name>
+      <Point>
+        <coordinates>148.77817,-35.56232,1665.122400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Round Mountain Hut</name>
+      <Point>
+        <coordinates>148.38231,-36.04430,1514.856000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schlink Hilton</name>
+      <Point>
+        <coordinates>148.38512,-36.27501,1774.850400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schofields Hut</name>
+      <Point>
+        <coordinates>148.67519,-35.85260,1395.069600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seamans Hut</name>
+      <Point>
+        <coordinates>148.28267,-36.45024,2033.016000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teddys Hut</name>
+      <Point>
+        <coordinates>148.34395,-36.53133,1730.959200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tin Hut</name>
+      <Point>
+        <coordinates>148.42394,-36.26463,1866.900000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tin Mine Hut (Barn)</name>
+      <Point>
+        <coordinates>148.25076,-36.70012,1274.978400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tin Hut toilet</name>
+      <Point>
+        <coordinates>148.42420,-36.26513,1865.985600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tantangara Mountain Hut</name>
+      <Point>
+        <coordinates>148.55717,-35.87313,1606.905600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trappers Hut</name>
+      <Point>
+        <coordinates>146.25408,-41.78535,1068.019200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valentine Hut</name>
+      <Point>
+        <coordinates>148.37174,-36.22698,1684.020000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterhole Hut</name>
+      <Point>
+        <coordinates>148.95198,-35.86649,1236.878400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westermans Homestead</name>
+      <Point>
+        <coordinates>148.97146,-35.88725,1211.884800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whites River Hut</name>
+      <Point>
+        <coordinates>148.38584,-36.29982,1726.996800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelers Hut</name>
+      <Point>
+        <coordinates>148.25286,-36.11392,1328.013600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Witses Hut</name>
+      <Point>
+        <coordinates>148.58343,-35.81147,1378.000800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wallaces Hut</name>
+      <Point>
+        <coordinates>148.48835,-36.14649,1487.119200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellow Hut</name>
+      <Point>
+        <coordinates>148.52363,-36.16245,1420.063200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hains Hut</name>
+      <Point>
+        <coordinates>148.591803,-35.769799,1238.05</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooks Hut</name>
+      <Point>
+        <coordinates>148.519747,-36.030118,1507.94</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Happys Hut</name>
+      <Point>
+        <coordinates>148.539422,-36.011663,1518.28</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Four Mile Hut</name>
+      <Point>
+        <coordinates>148.478369,-35.929807,1472.13</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delanys Hut</name>
+      <Point>
+        <coordinates>148.563526,-35.909173,1376.48</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brayshaws Hut</name>
+      <Point>
+        <coordinates>148.716921,-35.867619,1379.61</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vickerys Hut</name>
+      <Point>
+        <coordinates>148.404526804,-35.620273417,927.791016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Derrick Hut</name>
+      <Point>
+        <coordinates>147.160568889,-36.971227247,1748.991211</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kia Ora Hut</name>
+      <Point>
+        <coordinates>146.081500000,-41.892190000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windy Ridge Hut</name>
+      <Point>
+        <coordinates>146.088990000,-41.932090000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windemere Hut</name>
+      <Point>
+        <coordinates>145.956270000,-41.771590000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterfall Valley Hut</name>
+      <Point>
+        <coordinates>145.946890000,-41.714720000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmondson Hut</name>
+      <Point>
+        <coordinates>147.332190000,-36.848150000,1749.856800</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bivouac Hut</name>
+      <Point>
+        <coordinates>147.295100000,-36.713640000,1448.714400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flanagans Hut</name>
+      <Point>
+        <coordinates>148.466310359,-36.163588235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulls Peak Lodge</name>
+      <Point>
+        <coordinates>148.459001748,-36.166940887</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>High Hut</name>
+      <Point>
+        <coordinates>148.490064538,-36.156948531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jardines Hut</name>
+      <Point>
+        <coordinates>148.551736,-36.186092,1361.00</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Katingal</name>
+      <Point>
+        <coordinates>148.491353640,-36.159862278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kellys Hut</name>
+      <Point>
+        <coordinates>148.521571450,-36.124324496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mrs Caseys Hut</name>
+      <Point>
+        <coordinates>148.559591907,-36.209988624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stevens Hut</name>
+      <Point>
+        <coordinates>148.497249588,-36.156570417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wroes Hut</name>
+      <Point>
+        <coordinates>148.529281,-36.162192,1406.00</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Botheram Plain Hut</name>
+      <Point>
+        <coordinates>148.548201223,-36.252874746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coolamine Homestead</name>
+      <Point>
+        <coordinates>148.665031096,-35.609309098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CSIRO Hut</name>
+      <Point>
+        <coordinates>148.560650000,-36.229300000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McMillans Hut</name>
+      <Point>
+        <coordinates>148.572300211,-36.199871137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brayshaws Hut</name>
+      <Point>
+        <coordinates>148.984854865,-35.874802563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Demandering Hut</name>
+      <Point>
+        <coordinates>149.052535893,-35.838584632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Opera House</name>
+      <Point>
+        <coordinates>148.274732759,-36.387427787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Townsends Hut</name>
+      <Point>
+        <coordinates>148.684886935,-35.784155450</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Linesman No. 3 Hut</name>
+      <Point>
+        <coordinates>148.398965164,-36.014637314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bill Jones Hut</name>
+      <Point>
+        <coordinates>148.664895000,-35.650577000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cotter Hut</name>
+      <Point>
+        <coordinates>148.831087000,-35.650918000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingeegoodbee Hut</name>
+      <Point>
+        <coordinates>148.324233000,-36.820385000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

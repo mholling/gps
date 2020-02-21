@@ -2,7 +2,25 @@ require 'rexml/document'
 
 task default: "gps.kml"
 
-file "gps.kml" => FileList["*/*.kml"] do |kml|
+file "waypoints/huts.kml" => "waypoints/huts.gpx" do |kml|
+  xml = REXML::Document.new
+  xml << REXML::XMLDecl.new(1.0, "utf-8")
+  document = xml.add_element("kml", "xmlns" => "http://www.opengis.net/kml/2.2").add_element("Document")
+
+  REXML::Document.new(File.read "waypoints/huts.gpx").elements.each("gpx/wpt") do |wpt|
+    lat, lon, ele = wpt.attributes["lat"], wpt.attributes["lon"], wpt.elements["ele"]&.text
+    placemark = document.add_element "Placemark"
+    placemark.add_element("name").text = wpt.elements["name"].text
+    placemark.add_element("Point").add_element("coordinates").text = [lon, lat, *ele].join(?,)
+  end
+
+  string, formatter = String.new, REXML::Formatters::Pretty.new
+  formatter.compact = true
+  formatter.write xml, string
+  File.write kml.to_s, string
+end
+
+file "gps.kml" => FileList["rogaines/*.kml", "trips/*.kml", "waypoints/huts.kml"] do |kml|
   xml = REXML::Document.new
   xml << REXML::XMLDecl.new(1.0, "utf-8")
   document = xml.add_element("kml", "xmlns" => "http://www.opengis.net/kml/2.2", "xmlns:gx" => "http://www.google.com/kml/ext/2.2").add_element("Document")
