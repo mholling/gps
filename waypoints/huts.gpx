@@ -548,4 +548,30 @@
   <cmt>Ingeegoodbee Hut</cmt>
   <desc>Ingeegoodbee Hut</desc>
 </wpt>
+<wpt lat="-36.14613889431022" lon="148.4834119582908">
+  <name>Snowy Vale</name>
+  <cmt>Snowy Vale</cmt>
+  <desc>Snowy Vale</desc>
+</wpt>
+<wpt lat="-36.17269684644698" lon="148.4891714639096">
+  <name>Tin Hut</name>
+  <cmt>Tin Hut</cmt>
+  <desc>Tin Hut</desc>
+</wpt>
+<wpt lat="-36.13992328034171" lon="148.4717866435054">
+  <name>Top Hut</name>
+  <cmt>Top Hut</cmt>
+  <desc>Top Hut</desc>
+</wpt>
+<wpt lat="-36.10711060987685" lon="148.5374119101349">
+  <name>Barrys Hut</name>
+  <cmt>Barrys Hut</cmt>
+  <desc>Barrys Hut</desc>
+</wpt>
+<wpt lat="-36.20824777" lon="148.56507812">
+  <ele>1385</ele>
+  <name>Chalet</name>
+  <cmt>Chalet</cmt>
+  <desc>Chalet</desc>
+</wpt>
 </gpx>

@@ -571,5 +571,35 @@
         <coordinates>148.324233000,-36.820385000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Snowy Vale</name>
+      <Point>
+        <coordinates>148.4834119582908,-36.14613889431022</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tin Hut</name>
+      <Point>
+        <coordinates>148.4891714639096,-36.17269684644698</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Top Hut</name>
+      <Point>
+        <coordinates>148.4717866435054,-36.13992328034171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barrys Hut</name>
+      <Point>
+        <coordinates>148.5374119101349,-36.10711060987685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chalet</name>
+      <Point>
+        <coordinates>148.56507812,-36.20824777,1385</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
