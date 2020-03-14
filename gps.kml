@@ -1046,6 +1046,16 @@
         </Link>
         <flyToView>1</flyToView>
       </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>2020-03-11-snowy-plains-huts-circuit</name>
+        <Link>
+          <href>
+            https://github.com/mholling/gps/raw/master/trips/2020-03-11-snowy-plains-huts-circuit.kml
+          </href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
     </Folder>
     <Folder>
       <name>waypoints</name>
