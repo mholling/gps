@@ -520,7 +520,7 @@
     <Placemark>
       <name>McMillans Hut</name>
       <Point>
-        <coordinates>148.572300211,-36.199871137</coordinates>
+        <coordinates>148.5723353,-36.1997808,1388.00</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -590,9 +590,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Barrys Hut</name>
+      <name>Bald Mans Hut</name>
       <Point>
-        <coordinates>148.5374119101349,-36.10711060987685</coordinates>
+        <coordinates>148.5371067,-36.1065940,1556.00</coordinates>
       </Point>
     </Placemark>
     <Placemark>

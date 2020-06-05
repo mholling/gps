@@ -503,7 +503,8 @@
   <cmt>CSIRO Hut</cmt>
   <desc>CSIRO Hut</desc>
 </wpt>
-<wpt lat="-36.199871137" lon="148.572300211">
+<wpt lat="-36.1997808" lon="148.5723353">
+  <ele>1388.00</ele>
   <name>McMillans Hut</name>
   <cmt>McMillans Hut</cmt>
   <desc>McMillans Hut</desc>
@@ -563,10 +564,11 @@
   <cmt>Top Hut</cmt>
   <desc>Top Hut</desc>
 </wpt>
-<wpt lat="-36.10711060987685" lon="148.5374119101349">
-  <name>Barrys Hut</name>
-  <cmt>Barrys Hut</cmt>
-  <desc>Barrys Hut</desc>
+<wpt lat="-36.1065940" lon="148.5371067">
+  <ele>1556.00</ele>
+  <name>Bald Mans Hut</name>
+  <cmt>Bald Mans Hut</cmt>
+  <desc>Bald Mans Hut</desc>
 </wpt>
 <wpt lat="-36.20824777" lon="148.56507812">
   <ele>1385</ele>
