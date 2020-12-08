@@ -1110,6 +1110,14 @@
         </Link>
         <flyToView>1</flyToView>
       </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>2020-12-08-tibeaudo-creek</name>
+        <Link>
+          <href>https://github.com/mholling/gps/raw/master/trips/2020-12-08-tibeaudo-creek.kml</href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
     </Folder>
     <Folder>
       <name>waypoints</name>
