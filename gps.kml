@@ -1138,6 +1138,16 @@
         </Link>
         <flyToView>1</flyToView>
       </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>2021-06-06-tooma-river-circuit</name>
+        <Link>
+          <href>
+            https://github.com/mholling/gps/raw/master/trips/2021-06-06-tooma-river-circuit.kml
+          </href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
     </Folder>
     <Folder>
       <name>waypoints</name>
