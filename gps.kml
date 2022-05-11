@@ -1216,6 +1216,14 @@
         </Link>
         <flyToView>1</flyToView>
       </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
+        <name>2022-05-06-ellen-peak</name>
+        <Link>
+          <href>https://github.com/mholling/gps/raw/master/trips/2022-05-06-ellen-peak.kml</href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
     </Folder>
     <Folder>
       <name>waypoints</name>
