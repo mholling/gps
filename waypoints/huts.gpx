@@ -576,4 +576,16 @@
   <cmt>Chalet</cmt>
   <desc>Chalet</desc>
 </wpt>
+<wpt lat="-36.1356533" lon="148.5028667">
+  <ele>1431.0</ele>
+  <name>Goodwin Hut</name>
+  <cmt>Goodwin Hut</cmt>
+  <desc>Goodwin Hut</desc>
+</wpt>
+<wpt lat="-36.1007267" lon="148.4952933">
+  <ele>1540.0</ele>
+  <name>Crooks Racecourse</name>
+  <cmt>Crooks Racecourse</cmt>
+  <desc>Crooks Racecourse</desc>
+</wpt>
 </gpx>

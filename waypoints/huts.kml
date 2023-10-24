@@ -601,5 +601,17 @@
         <coordinates>148.56507812,-36.20824777,1385</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Goodwin Hut</name>
+      <Point>
+        <coordinates>148.5028667,-36.1356533,1431.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crooks Racecourse</name>
+      <Point>
+        <coordinates>148.4952933,-36.1007267,1540.0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
