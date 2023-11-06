@@ -1274,6 +1274,16 @@
       </NetworkLink>
       <NetworkLink>
         <visibility>0</visibility>
+        <name>2023-09-21-gulf-plain-circuit</name>
+        <Link>
+          <href>
+            https://github.com/mholling/gps/raw/master/trips/2023-09-21-gulf-plain-circuit.kml
+          </href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
         <name>2023-10-23-snowy-plain-circuit</name>
         <Link>
           <href>
