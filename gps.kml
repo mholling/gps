@@ -1264,6 +1264,16 @@
       </NetworkLink>
       <NetworkLink>
         <visibility>0</visibility>
+        <name>2023-05-12-blanket-plain-circuit</name>
+        <Link>
+          <href>
+            https://github.com/mholling/gps/raw/master/trips/2023-05-12-blanket-plain-circuit.kml
+          </href>
+        </Link>
+        <flyToView>1</flyToView>
+      </NetworkLink>
+      <NetworkLink>
+        <visibility>0</visibility>
         <name>2023-05-26-farm-ridge-circuit</name>
         <Link>
           <href>
